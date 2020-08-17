@@ -1,0 +1,10 @@
+
+out
+
+src/main/resources/META-INF/
+
+.idea/artifacts/
+
+build/
+
+*.jar
